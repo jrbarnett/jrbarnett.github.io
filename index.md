@@ -15,7 +15,7 @@ On Music is the personal website of [Jessica Moseley]({{ site.url }}/about/), a 
 
 ### [Piano Studio]({{ site.url }}/studio/)
 
-I have more than a decade of experience teaching piano to students as young as 4 and as old as 70 --- in conservatories, private universities, and community music schools. I teach 30, 45, and 60 minute lessons at my private studio in Elmwood Village, or at your
+I have more than a decade of experience teaching piano to students as young as 4 and as old as 70 --- in conservatories, private universities, and community music schools. I teach 30, 45, and 60 minute lessons at my private studio in Elmwood Village, or at your home.
 
 [My studio](/studio/) is now accepting students for the summer! [Contact me!](/studio/contact) 
 
