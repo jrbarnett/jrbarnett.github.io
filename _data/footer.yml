@@ -1,0 +1,16 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Blog
+  url: /blog/
+
+- title: Lessons
+  url: /studio/
+
+- title: Contact
+  url: /studio/contact/

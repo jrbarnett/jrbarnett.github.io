@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+
+<title>Jessica R. Barnett, Ph.D</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+<icon>/apple-touch-icon-precomposed.png</icon>
+<subtitle>Personal website of Buffalo-based pianist slash music theorist slash educator Jessica Barnett.</subtitle>
+<link href="/atom.xml" rel="self"/>
+<link href="/" rel="alternate" type="text/html"/>
+<updated>2015-06-05T10:10:55-04:00</updated>
+<id>/</id>
+<author>
+  <name>Jessica Moseley</name>
+  <uri>/</uri>
+  <email>barnett.jessica@gmail.com</email>
+</author>
+
+
+<entry>
+  <title>Tuition and Policies</title>
+  <link href="/studio/tuition-and-policies/"/>
+  <updated>2015-04-26T00:00:00-04:00</updated>
+  <id>/studio/tuition-and-policies</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/background.jpg&quot; alt=&quot;Tuition and Policies feature&quot;&gt;&lt;br/&gt;
+    &lt;div class=&quot;sidebar-left top&quot;&gt;
+	&lt;h6 class=&quot;toc-title&quot;&gt;Studio Information&lt;/h6&gt;
+	&lt;ul class=&quot;toc&quot;&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio&quot;&gt;About My Studio&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/tuition-and-policies&quot;&gt;Tuition and Policies&lt;/a&gt;
+			&lt;!--&lt;ul&gt;	
+			&lt;li&gt;
+				&lt;a href=&quot;#Tuition&quot;&gt;Costs&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#attendance&#39;&gt;Attendance and Cancellation&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#practicing&#39;&gt;Practicing&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;#performance&quot;&gt;Performance Opportunities&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#supplies&#39;&gt;Supplies&lt;/a&gt;
+			&lt;/li&gt;--&gt;
+		&lt;/li&gt;	
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/resources&quot;&gt;Resources&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/about&quot;&gt;About Me&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/contact&quot;&gt;Contact Me&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Monthly tuition is due at the first lesson of each month and can be paid via check, cash, &lt;a href=&quot;paypal.com&quot;&gt;or&lt;/a&gt; &lt;a href=&quot;https://venmo.com&quot;&gt;electronically&lt;/a&gt;. I will issue a monthly invoice and receipt electronically. Families with two or more students will receive a $5 discount per student.&lt;/p&gt;
+
+&lt;p&gt;Tuition encompasses lesson time and overhead costs, which include materials, recitals, and piano maintenance.&lt;/p&gt;
+
+&lt;p&gt;Lesson lengths are recommended below and vary by student age, level, and budget.&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th&gt;Length&lt;/th&gt;
+			&lt;th&gt;In My Studio&lt;/th&gt;
+			&lt;th&gt;At Your Home&lt;/th&gt;
+			&lt;th&gt;&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;em&gt;30 minutes&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				$30
+			&lt;/td&gt;
+			&lt;td&gt;
+				$35
+			&lt;/td&gt;
+			&lt;td&gt;
+				Best for young children and beginners who have never played the instrument before.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;em&gt;45 minutes&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				$40
+			&lt;/td&gt;
+			&lt;td&gt;
+				$45
+			&lt;/td&gt;
+			&lt;td&gt;
+				Great for adult beginners, high schoolers, and advanced children who are very serious about learning the instrument.
+			&lt;/td&gt;
+		&lt;/tr&gt;
+		&lt;tr&gt;
+			&lt;td&gt;
+				&lt;em&gt;60 minutes&lt;/em&gt;
+			&lt;/td&gt;
+			&lt;td&gt;
+				$50
+			&lt;/td&gt;
+			&lt;td&gt;
+				$55
+			&lt;/td&gt;
+			&lt;td&gt;
+				For advanced students, and pianists preparing for competitions and recitals. 
+			&lt;/td&gt;
+		&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2&gt;
+	&lt;a name=&quot;attendance&quot;&gt;Attendance and Cancellation&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Regular attendance is expected and necessary to make progress. If a lesson must be cancelled, please contact me via email, text message, or phone call as soon as possible. If I must cancel a lesson, I will make it up as soon as possible and at your convenience&lt;/p&gt;
+
+&lt;h2&gt;
+	&lt;a name=&quot;practicing&quot;&gt;
+		Practicing
+	&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Becoming a great pianist requires regular, quality practice at home. Lessons focus on the development of effective practice skills that build not only strength, coordination and musicality, but also focus, self-discipline, and the ability to solve problems - skills that help us all be more productive humans.&lt;/p&gt;
+
+&lt;p&gt;It is essential that young students, especially beginners, receive active and positive parental involvement outside of the lesson time. Parents are invited to attend lessons and encouraged to ask questions or share observations about their child’s progress.&lt;/p&gt;
+
+&lt;h2&gt;
+	Performance Opportunities
+&lt;/h2&gt;
+&lt;p&gt;&lt;a name=&quot;performance&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Recitals: All students ages 18 and under should plan to perform in a minimum of two studio recitals each year. Adult students have the option to participate. All recitals are open to the public; family and friends are welcome.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Competitive Events: Please let the teacher know if the student is interested in participating in piano and/or composition competitions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2&gt;
+	&lt;a name=&quot;supplies&quot;&gt;
+		Supplies
+	&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Students need:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A well-maintained grand or upright piano, or a professional keyboard&lt;/li&gt;
+  &lt;li&gt;Repertoire assigned by the teacher&lt;/li&gt;
+  &lt;li&gt;A three-ring binder to hold sheet music&lt;/li&gt;
+  &lt;li&gt;A &lt;a href=&quot;https://itunes.apple.com/us/app/pro-metronome-tempo-keeping/id477960671?mt=8&quot;&gt;metronome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/studio/tuition-and-policies/&quot; rel=&quot;nofollow&quot;&gt;Tuition and Policies&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Skinny Bones, a Jekyll Starter</title>
+  <link href="/work/skinny-bones-jekyll/"/>
+  <updated>2014-09-02T00:00:00-04:00</updated>
+  <id>/work/skinny-bones-jekyll</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/skinny-bones-preview-feature.png&quot; alt=&quot;Skinny Bones, a Jekyll Starter feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;What originally started as a site refresh quickly turned into something else when Jekyll baked in native support for Sass with a &lt;a href=&quot;http://jekyllrb.com/docs/history/#v2-0-0&quot;&gt;2.0 release&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;sidebar-left top&quot;&gt;
+  &lt;h6 class=&quot;toc-title&quot;&gt;Table of Contents&lt;/h6&gt;
+  &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#notable-features&quot; id=&quot;markdown-toc-notable-features&quot;&gt;Notable Features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#contributing&quot; id=&quot;markdown-toc-contributing&quot;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#license&quot; id=&quot;markdown-toc-license&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;&lt;!-- /.toc --&gt;
+
+  &lt;div class=&quot;ads&quot;&gt;
+    &lt;span class=&quot;ad-header&quot;&gt;Advertisement&lt;/span&gt;
+    &lt;ins class=&quot;adsbygoogle r-ads-skyscraper&quot; style=&quot;display:inline-block&quot; data-ad-client=&quot;&quot; data-ad-slot=&quot;&quot;&gt;&lt;/ins&gt;
+    &lt;script&gt;
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    &lt;/script&gt;
+  &lt;/div&gt;&lt;!-- /.ads --&gt;
+&lt;/div&gt;
+&lt;!--/.sidebar-left --&gt;
+
+&lt;p&gt;This was a good excuse to learn Sass and figured starting a new repository to experiment with would be better than breaking my existing site and Jekyll themes. I ended up with what I’m calling &lt;strong&gt;Skinny Bones&lt;/strong&gt; by completely rewriting all of &lt;a href=&quot;https://github.com/mmistakes/made-mistakes&quot;&gt;Made Mistakes’s&lt;/a&gt; stylesheets, &lt;code&gt;_layouts&lt;/code&gt;, and &lt;code&gt;_includes&lt;/code&gt; to be more modular.&lt;/p&gt;
+
+&lt;p&gt;I like to think of Skinny Bones as a starter for building your own Jekyll powered site — versus a theme you use as is. I’ve purposely kept the styling minimal and light to make adding your own flare and markup easier. If that’s not your thing you can still use it without modification, but where is the fun in that?&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;a href=&quot;https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/skinny-bones-jekyll/getting-started/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/skinny-bones-jekyll/&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;notable-features&quot;&gt;Notable Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;GitHub Pages compatible.&lt;/li&gt;
+  &lt;li&gt;Stylesheets built using Sass to help theme your site with ease. &lt;em&gt;Requires Jekyll 2.x&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Data files for easier customization of the site navigation/footer and for supporting multiple authors.&lt;/li&gt;
+  &lt;li&gt;Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.&lt;/li&gt;
+  &lt;li&gt;And more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;/h2&gt;
+
+&lt;p&gt;Found a bug or aren’t quite sure how something works? By all means &lt;a href=&quot;https://github.com/mmistakes/skinny-bones-jekyll/issues&quot;&gt;submit an issue&lt;/a&gt; on GitHub. For straight forward bug fixes (spelling mistakes, typos, broken links, etc.) feel free to submit pull requests.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skinny Bones&lt;/strong&gt; was built predominately as a framework for myself. My intention was never to make it all things for all people. So please keep that in mind before submitting new features or enhancements. If you’ve used any of my &lt;a href=&quot;http://mademistakes.com/work/jekyll-themes/&quot;&gt;Jekyll themes&lt;/a&gt; I think it’s pretty clear what I like and what I try to avoid. When in doubt ask before wasting your time on a feature that won’t get merged in.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This theme is free and open source software, distributed under the MIT License. So feel free to use this Jekyll theme on your site without linking back to me or including a disclaimer.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/work/skinny-bones-jekyll/&quot; rel=&quot;nofollow&quot;&gt;Skinny Bones, a Jekyll Starter&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Piano Studio</title>
+  <link href="/studio/contact/"/>
+  <updated>2014-05-21T00:00:00-04:00</updated>
+  <id>/studio/contact</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/background.jpg&quot; alt=&quot;Piano Studio feature&quot;&gt;&lt;br/&gt;
+    &lt;div class=&quot;sidebar-left top&quot;&gt;
+	&lt;h6 class=&quot;toc-title&quot;&gt;Studio Information&lt;/h6&gt;
+	&lt;ul class=&quot;toc&quot;&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio&quot;&gt;About My Studio&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/tuition-and-policies&quot;&gt;Tuition and Policies&lt;/a&gt;
+			&lt;!--&lt;ul&gt;	
+			&lt;li&gt;
+				&lt;a href=&quot;#Tuition&quot;&gt;Costs&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#attendance&#39;&gt;Attendance and Cancellation&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#practicing&#39;&gt;Practicing&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;#performance&quot;&gt;Performance Opportunities&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#supplies&#39;&gt;Supplies&lt;/a&gt;
+			&lt;/li&gt;--&gt;
+		&lt;/li&gt;	
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/resources&quot;&gt;Resources&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/about&quot;&gt;About Me&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/contact&quot;&gt;Contact Me&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;contact-me&quot;&gt;Contact Me&lt;/h2&gt;
+
+&lt;p&gt;Have more questions? Sent me a note below, or a short messages via Twitter.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?screen_name=bcmoseley&quot; class=&quot;twitter-mention-button&quot; data-size=&quot;large&quot; data-related=&quot;bcmoseley&quot;&gt;Tweet to @bcmoseley&lt;/a&gt;&lt;/p&gt;
+
+&lt;script src=&quot;/assets/vendor/wufoo-95437d9dcea212d4feb3bd67198a21e8.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Have something longer you want to ask me? Fill out the form below and I’ll get back to you by email.&lt;/p&gt;
+
+&lt;form id=&quot;form1&quot; name=&quot;form1&quot; class=&quot;wufoo  page&quot; accept-charset=&quot;UTF-8&quot; autocomplete=&quot;off&quot; enctype=&quot;multipart/form-data&quot; method=&quot;post&quot; novalidate=&quot;&quot; action=&quot;https://jessicarbarnett.wufoo.com/forms/zhomijw0fmc5r0/&quot;&gt;
+  &lt;ul&gt;
+    &lt;li id=&quot;foli7&quot; class=&quot;notranslate&quot;&gt;
+      &lt;label class=&quot;desc&quot; id=&quot;title7&quot; for=&quot;Field7&quot;&gt; Name &lt;/label&gt;
+      &lt;div&gt;
+        &lt;input id=&quot;Field7&quot; name=&quot;Field7&quot; type=&quot;text&quot; class=&quot;field text large&quot; value=&quot;&quot; maxlength=&quot;255&quot; tabindex=&quot;1&quot; onkeyup=&quot;&quot; /&gt;
+        &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;foli2&quot; class=&quot;notranslate&quot;&gt;
+      &lt;label class=&quot;desc&quot; id=&quot;title2&quot; for=&quot;Field2&quot;&gt; Email address &lt;span id=&quot;req_2&quot; class=&quot;req&quot;&gt;*&lt;/span&gt; &lt;/label&gt;
+      &lt;div&gt;
+        &lt;input id=&quot;Field2&quot; name=&quot;Field2&quot; type=&quot;email&quot; spellcheck=&quot;false&quot; class=&quot;field text large&quot; value=&quot;&quot; maxlength=&quot;255&quot; tabindex=&quot;2&quot; required=&quot;&quot; /&gt;
+      &lt;/div&gt;
+      &lt;p class=&quot;instruct&quot; id=&quot;instruct2&quot;&gt;&lt;small&gt;Your email address will remain private and won&#39;t be shared with anyone.&lt;/small&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;foli1&quot; class=&quot;notranslate&quot;&gt;
+      &lt;label class=&quot;desc&quot; id=&quot;title1&quot; for=&quot;Field1&quot;&gt; Message &lt;span id=&quot;req_1&quot; class=&quot;req&quot;&gt;*&lt;/span&gt; &lt;/label&gt;
+      &lt;div&gt;
+        &lt;textarea id=&quot;Field1&quot; name=&quot;Field1&quot; class=&quot;field textarea medium&quot; spellcheck=&quot;true&quot; rows=&quot;10&quot; cols=&quot;50&quot; tabindex=&quot;3&quot; onkeyup=&quot;&quot; required=&quot;&quot;&gt;&lt;/textarea&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;buttons&quot;&gt;
+      &lt;div&gt;
+        &lt;input id=&quot;saveForm&quot; name=&quot;saveForm&quot; class=&quot;btn&quot; type=&quot;submit&quot; value=&quot;Send Message&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/li&gt;
+    &lt;li class=&quot;hidden&quot;&gt;
+      &lt;label for=&quot;comment&quot;&gt;Do Not Fill This Out&lt;/label&gt;
+      &lt;textarea name=&quot;comment&quot; id=&quot;comment&quot; rows=&quot;1&quot; cols=&quot;1&quot;&gt;&lt;/textarea&gt;
+      &lt;input type=&quot;hidden&quot; id=&quot;idstamp&quot; name=&quot;idstamp&quot; value=&quot;DXSyHZyBYpNZI+88LvVOKO8dSfd/5lyIeCQAXFVxeJY=&quot; /&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/form&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;/studio/contact/&quot; rel=&quot;nofollow&quot;&gt;Piano Studio&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Jekyll Themes</title>
+  <link href="/work/jekyll-themes/"/>
+  <updated>2014-02-28T00:00:00-05:00</updated>
+  <id>/work/jekyll-themes</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/jekyll-themes-feature.jpg&quot; alt=&quot;Jekyll Themes feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;As I continue to hack away at the design of Made Mistakes and improve on things, I try to release simplified Jekyll starters and themes after each major site revision. Should make development easier for those who sift through &lt;a href=&quot;https://github.com/mmistakes/made-mistakes-jekyll&quot;&gt;my main repository&lt;/a&gt; trying to strip out the cruft and site specific content to make it their own.&lt;/p&gt;
+
+&lt;div class=&quot;sidebar-left top&quot;&gt;
+  &lt;h6 class=&quot;toc-title&quot;&gt;Table of Contents&lt;/h6&gt;
+  &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#skinny-bones&quot; id=&quot;markdown-toc-skinny-bones&quot;&gt;Skinny Bones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#minimal-mistakes&quot; id=&quot;markdown-toc-minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#so-simple&quot; id=&quot;markdown-toc-so-simple&quot;&gt;So Simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hpstr&quot; id=&quot;markdown-toc-hpstr&quot;&gt;HPSTR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#license&quot; id=&quot;markdown-toc-license&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;&lt;!-- /.toc --&gt;
+
+  &lt;div class=&quot;ads&quot;&gt;
+    &lt;span class=&quot;ad-header&quot;&gt;Advertisement&lt;/span&gt;
+    &lt;ins class=&quot;adsbygoogle r-ads-skyscraper&quot; style=&quot;display:inline-block&quot; data-ad-client=&quot;&quot; data-ad-slot=&quot;&quot;&gt;&lt;/ins&gt;
+    &lt;script&gt;
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    &lt;/script&gt;
+  &lt;/div&gt;&lt;!-- /.ads --&gt;
+&lt;/div&gt;
+&lt;!--/.sidebar-left --&gt;
+
+&lt;p&gt;Below are all of the Jekyll starters I’ve open sourced thus far. Each “theme” contains all of the &lt;code&gt;_layouts&lt;/code&gt;, &lt;code&gt;_includes&lt;/code&gt;, Sass/CSS, JavaScript, and other sample files needed to build a site or blog. There are a lot of similarities between how they work and the file organization — which should make switching and updating between them easier.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-basic-setup-for-each-is-roughly-the-same&quot;&gt;The basic setup for each is roughly the same.&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fork the Jekyll theme repository you’d like to use.&lt;/li&gt;
+  &lt;li&gt;Clone the repository you just forked and rename it appropriately&lt;sup id=&quot;fnref:github-pages&quot;&gt;&lt;a href=&quot;#fn:github-pages&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bundler.io&quot;&gt;Install Bundler&lt;/a&gt; &lt;code&gt;gem install bundler&lt;/code&gt; and run &lt;code&gt;bundle install&lt;/code&gt; to install all dependencies (Jekyll, &lt;a href=&quot;https://github.com/jekyll/jekyll-sitemap&quot;&gt;Jekyll-Sitemap&lt;/a&gt;, &lt;a href=&quot;https://github.com/octopress/octopress&quot;&gt;Octopress&lt;/a&gt;, etc)&lt;/li&gt;
+  &lt;li&gt;Update &lt;code&gt;_config.yml&lt;/code&gt;, navigation data files (found in &lt;code&gt;_data&lt;/code&gt;), and replace sample posts and pages with your own.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For more specifics, review each themes’ documentation by clicking on the &lt;strong&gt;Learn More&lt;/strong&gt; buttons below.&lt;/p&gt;
+
+&lt;h2 id=&quot;skinny-bones&quot;&gt;Skinny Bones&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/skinny-bones-preview-feature.png&quot; alt=&quot;Skinny Bones Jekyll theme&quot; /&gt;
+	&lt;figcaption&gt;Includes a fun off canvas menu&lt;/figcaption&gt; 
+&lt;/figure&gt;
+
+&lt;p&gt;A Jekyll starter used to build the latest incarnation of Made Mistakes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Minimal design meant to be hacked up and customized&lt;/li&gt;
+  &lt;li&gt;Built-in support for Sass and data files (requires Jekyll 2.x)&lt;/li&gt;
+  &lt;li&gt;Off canvas menu&lt;/li&gt;
+  &lt;li&gt;Tile based archives&lt;/li&gt;
+  &lt;li&gt;Optional table of contents, share links, Disqus comments modules, and more&lt;/li&gt;
+  &lt;li&gt;Plugin free. 100% compatible with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+	&lt;a href=&quot;https://github.com/mmistakes/skinny-bones-jekyll/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+	&lt;a href=&quot;https://mmistakes.github.io/skinny-bones-jekyll/getting-started/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/skinny-bones-jekyll/&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/minimal-mistakes-theme-feature.png&quot; alt=&quot;Minimal Mistakes Jekyll theme&quot; /&gt;
+	&lt;figcaption&gt;A minimal design to let your content be the hero&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A minimally designed responsive Jekyll theme for text heavy blogs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Minimal design&lt;/li&gt;
+  &lt;li&gt;Built-in support for Sass and data files (requires Jekyll 2.x)&lt;/li&gt;
+  &lt;li&gt;Author sidebar&lt;/li&gt;
+  &lt;li&gt;Automatic table of contents on single posts &lt;a href=&quot;http://kramdown.gettalong.org/converter/html.html#toc&quot;&gt;via Kramdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Plugin free. 100% compatible with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+	&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+	&lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/theme-setup/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;so-simple&quot;&gt;So Simple&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/so-simple-theme-feature.jpg&quot; alt=&quot;So Simple feature image&quot; /&gt;
+	&lt;figcaption&gt;Large images and site logo if that&#39;s your thing&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A simple and clean responsive Jekyll theme for words and large photographs.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Minimal design&lt;/li&gt;
+  &lt;li&gt;Simple search (searches by post title)&lt;/li&gt;
+  &lt;li&gt;Built-in support for Sass and data files (requires Jekyll 2.x)&lt;/li&gt;
+  &lt;li&gt;Plugin free. 100% compatible with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+	&lt;a href=&quot;https://github.com/mmistakes/so-simple-theme/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+	&lt;a href=&quot;https://mmistakes.github.io/so-simple-theme/theme-setup/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/so-simple-theme&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;hpstr&quot;&gt;HPSTR&lt;/h2&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;/images/hpstr-theme-feature.jpg&quot; alt=&quot;HPSTR feature image&quot; /&gt;
+	&lt;figcaption&gt;A traditional blog approach with a modern style&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;A responsive Jekyll blog theme designed to give your site a modern and somewhat cliché feel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Modern, subtle design&lt;/li&gt;
+  &lt;li&gt;Animated main menu&lt;/li&gt;
+  &lt;li&gt;Built-in support for Sass and data files (requires Jekyll 2.x)&lt;/li&gt;
+  &lt;li&gt;Plugin free. 100% compatible with GitHub Pages.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div&gt;
+	&lt;a href=&quot;https://github.com/mmistakes/hpstr-jekyll-theme/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+	&lt;a href=&quot;https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/hpstr-jekyll-theme/&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;These themes are free and open source software, distributed under the &lt;a href=&quot;/LICENSE&quot;&gt;MIT License&lt;/a&gt;. Feel free to modify them to suit your needs.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:github-pages&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/docs/github-pages/&quot;&gt;Follow these steps&lt;/a&gt; if you’re going to host your site on GitHub Pages to get the repo name and branches setup correctly. &lt;a href=&quot;#fnref:github-pages&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/work/jekyll-themes/&quot; rel=&quot;nofollow&quot;&gt;Jekyll Themes&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Minimal Mistakes, a Jekyll Theme</title>
+  <link href="/work/minimal-mistakes-jekyll-theme/"/>
+  <updated>2013-05-28T00:00:00-04:00</updated>
+  <id>/work/minimal-mistakes-jekyll-theme</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/minimal-mistakes-theme-feature.png&quot; alt=&quot;Minimal Mistakes, a Jekyll Theme feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;Jekyll is pretty rad and figured releasing an older version of &lt;a href=&quot;http://mademistakes.com&quot;&gt;my site&lt;/a&gt; as a theme for others to hack and build on would be fun. So here be that theme — I call it &lt;strong&gt;&lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes&quot;&gt;Minimal Mistakes&lt;/a&gt;&lt;/strong&gt;, a responsive Jekyll theme focused on great typography for text heavy sites.&lt;/p&gt;
+
+&lt;div class=&quot;notice-warning&quot;&gt;
+  &lt;h4 id=&quot;update&quot;&gt;Update&lt;/h4&gt;
+  &lt;p&gt;Minimal Mistakes makes use of Sass and data files as part of Jekyll 2.x. Updating your site’s look and feel just got easier!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;sidebar-left top&quot;&gt;
+  &lt;h6 class=&quot;toc-title&quot;&gt;Table of Contents&lt;/h6&gt;
+  &lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#features&quot; id=&quot;markdown-toc-features&quot;&gt;Features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot; id=&quot;markdown-toc-installation&quot;&gt;Installation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usage&quot; id=&quot;markdown-toc-usage&quot;&gt;Usage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#questions&quot; id=&quot;markdown-toc-questions&quot;&gt;Questions?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#license&quot; id=&quot;markdown-toc-license&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/nav&gt;&lt;!-- /.toc --&gt;
+
+  &lt;div class=&quot;ads&quot;&gt;
+    &lt;span class=&quot;ad-header&quot;&gt;Advertisement&lt;/span&gt;
+    &lt;ins class=&quot;adsbygoogle r-ads-skyscraper&quot; style=&quot;display:inline-block&quot; data-ad-client=&quot;&quot; data-ad-slot=&quot;&quot;&gt;&lt;/ins&gt;
+    &lt;script&gt;
+    (adsbygoogle = window.adsbygoogle || []).push({});
+    &lt;/script&gt;
+  &lt;/div&gt;&lt;!-- /.ads --&gt;
+&lt;/div&gt;
+&lt;!--/.sidebar-left --&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Responsive layouts. Looks good on mobile, tablets, and desktop devices.&lt;/li&gt;
+  &lt;li&gt;Full compatibility with &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Minimal design.&lt;/li&gt;
+  &lt;li&gt;Author sidebar with optional links to social media profiles.&lt;/li&gt;
+  &lt;li&gt;Support for large images to call out your favorite posts.&lt;/li&gt;
+  &lt;li&gt;Tags for &lt;a href=&quot;https://developers.facebook.com/docs/opengraph/&quot;&gt;Open Graph&lt;/a&gt; and &lt;a href=&quot;https://dev.twitter.com/docs/cards&quot;&gt;Twitter Cards&lt;/a&gt; for a better social sharing experience.&lt;/li&gt;
+  &lt;li&gt;Stylesheets for Pygments and Coderay &lt;a href=&quot;http://mmistakes.github.io/minimal-mistakes/articles/code-highlighting-post/&quot;&gt;syntax highlighting&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+	&lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/&quot;&gt;&lt;img src=&quot;/images/mm-theme-post-750.jpg&quot; alt=&quot;Screenshot of Minimal Mistakes theme&quot; /&gt;&lt;/a&gt;
+&lt;/figure&gt;
+
+&lt;div&gt;
+  &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/archive/master.zip&quot; class=&quot;btn-info&quot;&gt;&lt;i class=&quot;fa fa-download&quot;&gt;&lt;/i&gt; Download&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/theme-setup/&quot; class=&quot;btn&quot;&gt;&lt;i class=&quot;fa fa-question-circle&quot;&gt;&lt;/i&gt; Setup Guide&lt;/a&gt;
+  &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes&quot; class=&quot;btn&quot;&gt;Demo&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;p&gt;Minimal Mistakes now requires &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; 2.x. Make sure to run &lt;code&gt;gem update jekyll&lt;/code&gt; if you aren’t on the latest version or &lt;code&gt;gem install jekyll&lt;/code&gt; if this is your first time installing it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are creating a new Jekyll site using Minimal Mistakes follow these steps:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Fork the &lt;a href=&quot;http://github.com/mmistakes/minimal-mistakes/fork&quot;&gt;Minimal Mistakes repo&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Clone the repo you just forked and rename it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bundler.io&quot;&gt;Install Bundler&lt;/a&gt; &lt;code&gt;gem install bundler&lt;/code&gt; and Run &lt;code&gt;bundle install&lt;/code&gt; to install all dependencies (Jekyll, &lt;a href=&quot;https://github.com/jekyll/jekyll-sitemap&quot;&gt;Jekyll-Sitemap&lt;/a&gt;, &lt;a href=&quot;https://github.com/octopress/octopress&quot;&gt;Octopress&lt;/a&gt;, &lt;a href=&quot;http://bourbon.io&quot;&gt;Bourbon&lt;/a&gt;, etc)&lt;/li&gt;
+  &lt;li&gt;Update &lt;code&gt;config.yml&lt;/code&gt;, add navigation, and replace demo posts and pages with your own. &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/theme-setup/&quot;&gt;Full details here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/archive/master.zip&quot;&gt;Download Minimal Mistakes&lt;/a&gt; and unzip.&lt;/li&gt;
+  &lt;li&gt;Rename &lt;code&gt;minimal-mistakes-master&lt;/code&gt; to something meaningful ie: &lt;code&gt;new-site&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Run &lt;code&gt;bundle install&lt;/code&gt; to install all dependencies (Jekyll, &lt;a href=&quot;https://github.com/jekyll/jekyll-sitemap&quot;&gt;Jekyll-Sitemap&lt;/a&gt;, &lt;a href=&quot;https://github.com/octopress/octopress&quot;&gt;Octopress&lt;/a&gt;, &lt;a href=&quot;http://bourbon.io&quot;&gt;Bourbon&lt;/a&gt;, etc)&lt;/li&gt;
+  &lt;li&gt;Remove demo posts and pages add replace with your own posts, pages, and any other content you want to move over.&lt;/li&gt;
+  &lt;li&gt;Update posts and pages YAML to match variables used by Minimal Mistakes.&lt;/li&gt;
+  &lt;li&gt;Update &lt;code&gt;config.yml&lt;/code&gt; and add navigation links. &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/theme-setup/&quot;&gt;Full details here&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&quot;notice-info&quot;&gt;
+  &lt;h4 id=&quot;protip-clean-up-the-repo&quot;&gt;ProTip: Clean Up the Repo&lt;/h4&gt;
+  &lt;p&gt;Delete the &lt;code&gt;gh-pages&lt;/code&gt; branch after cloning and start fresh by branching off &lt;code&gt;master&lt;/code&gt;. There is a bunch of garbage in &lt;code&gt;gh-pages&lt;/code&gt; used for the theme’s demo site that I’m guessing you won’t want.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;usage&quot;&gt;Usage&lt;/h2&gt;
+
+&lt;p&gt;To learn more about how to customize this theme, include feature images in posts, modify the look and feel, create new posts, and some other junk, &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/theme-setup/&quot;&gt;read up here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;Having a problem getting something to work or want to know why I setup something in a certain way? Ping me on Twitter &lt;a href=&quot;http://twitter.com/mmistakes&quot;&gt;@mmistakes&lt;/a&gt; or &lt;a href=&quot;https://github.com/mmistakes/minimal-mistakes/issues/new&quot;&gt;file a GitHub issue&lt;/a&gt;. And if you make something cool with this theme feel free to let me know.&lt;/p&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;This theme is free and open source software, distributed under the &lt;a href=&quot;/LICENSE&quot;&gt;MIT License&lt;/a&gt;. So feel free to modify it however you’d like without linking back to me or including a disclaimer.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/work/minimal-mistakes-jekyll-theme/&quot; rel=&quot;nofollow&quot;&gt;Minimal Mistakes, a Jekyll Theme&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Gangnam Style, Arts Education, and the US Economy</title>
+  <link href="/blog/gagnam-style-arts-education-us-economy/"/>
+  <updated>2012-10-19T00:00:00-04:00</updated>
+  <id>/blog/gagnam-style-arts-education-us-economy</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/gagnam-feature.jpg&quot; alt=&quot;Gangnam Style, Arts Education, and the US Economy feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.npr.org/blogs/money/&quot;&gt;NPR’s Planet Money&lt;/a&gt; podcast is one of my favorite things to listen to when I’m running. In a recent episode, &lt;a href=&quot;http://www.npr.org/blogs/money/2012/10/16/163039109/episode-410-why-k-pop-is-taking-over-the-world&quot;&gt;“Why K-Pop is Taking over the World,”&lt;/a&gt; they discuss how South Korea has positioned itself to be a major player in pop music all across the world. It’s kind of strange to think of pop music as a commodity, but it really is, and one we’ve exported to the rest of the world for a long time. It took us more than 100 years to establish a pop music industry in America, and by making smart investments, learning from us ( and getting a bit lucky) Korea’s managed to kickstart a pop music industry in just 20 years by—as the Planet Money folks put it—figuring how to “manufacture, distribute, and ‘package’ ” music.&lt;/p&gt;
+
+&lt;p&gt;Most of the episode is devoted to showing how they’ve done this, how all of that work has laid a foundation for songs like &lt;a href=&quot;http://www.youtube.com/watch?v=9bZkp7q19f0&quot;&gt;Gangam Style&lt;/a&gt;. The song’s symbolic of the fact that Korea has become a real player in the world’s larger cultural industry. For the Koreans, investing in the industry was in many ways a brilliant economic strategy. Planet Money makes the case that when people in other countries listen to our music, watch our movies, and so on, they become much more likely to buy our stuff, visit our country, and associate things made in the US with quality. A strong cultural industry is an incredible form of soft power: it gives us the ability to influence the values of a large population of the world without fighting wars or giving them money.&lt;/p&gt;
+
+&lt;p&gt;So it seems to me that it’s in America’s best interests to maintain our edge as net exporters of cultural products. After listening to the episode, I kept thinking how valuable long-dead artists and musicians are to cities all across Europe. It’s always valuable to debate whether investments we make will return value to US taxpayers, but this episode in particular made me think how difficult it must be to calculate the real value of investing just a dollar into something like arts education.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/blog/gagnam-style-arts-education-us-economy/&quot; rel=&quot;nofollow&quot;&gt;Gangnam Style, Arts Education, and the US Economy&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Using Spotify in the Aural Skills Classroom</title>
+  <link href="/blog/using-spotify-in-the-aural-skills-classroom/"/>
+  <updated>2012-10-08T00:00:00-04:00</updated>
+  <id>/blog/using-spotify-in-the-aural-skills-classroom</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/dictation-feature.jpg&quot; alt=&quot;Using Spotify in the Aural Skills Classroom feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;At Furman we are really lucky to have well-equipped classrooms that make it very easy to display a computer screen, project a score, and play music from a device with audio output. Partly as a result of this, and after reading a bunch of excellent blog posts by &lt;a href=&quot;http://kris.shaffermusic.com/&quot;&gt;Kris Shaffer&lt;/a&gt; about incorporating technology into music theory classes, I’ve found myself making greater use of online resources in my classes.&lt;/p&gt;
+
+&lt;p&gt;Last year, I used many of the great ideas in &lt;a href=&quot;http://jmtp.ou.edu/author/brian-alegant&quot;&gt;Brian Alegant’s “Listen Up!: Thoughts on iPods, Sonata Form, and Analysis without Score,” (Journal of Music Theory Pedagogy 21)&lt;/a&gt; when I taught form to sophomores. Alegant’s basic point—and this has become even more true since the article was published—is that great recordings are at our fingertips, and it’s easier than it’s ever been to use them in and out of the classroom. When I taught the Form and Analysis part of that class, I often used the online recording databases that Furman subscribes to. Lots of universities have subscriptions to the Naxos Library or the EMI Classical Music library. (Furman also subscribes to &lt;a href=&quot;http://www.dramonline.org/&quot;&gt;DRAM&lt;/a&gt;, a particularly nice archive of American music recorded on the New World Records and CRI labels.) These are all great resources, but I realized fairly quickly that they aren’t great for in-class use. Their search functions are not particularly intuitive, and, because they are browser-based, they can be unreliable. Even when I’d create a playlist before class, I could never be sure that a recording was really going to play when I pressed the play button! For all of these reasons, my students are even less likely to use them outside of class.&lt;/p&gt;
+
+&lt;p&gt;But the ability to incorporate good-quality recorded music into my classes has become too important to me to give up because of these shortcomings. Furman’s theory curriculum is structured around Steve Laitz’s “The Complete Musician,” and the most recent edition, which separates workbooks into “written” and “musicianship” skills, has made it even easier to use Laitz as a stand-alone aural skills text. On the musicianship side, Laitz’s text really emphasizes holistic listening skills: bass-line dictation, form identification, and so on. And students develop these skills through listening to a variety of instrumental and vocal ensembles playing “real music.”These are tough skills to master, and unlike harmonic idioms, melodic dictation—more traditional listening skills—I can’t emulate a string quartet in class!&lt;/p&gt;
+
+&lt;p&gt;Laitz’s musicianship workbook is fairly-well stocked with examples—more than I can get to in class—but students always want more practice, and it’s nice to have lots of extra examples if you want to emphasize something in particular. For example, I’ve been teaching modulation mostly in relation to the opening phrase of Minuets. Laitz has a few examples, but I want my students to have lots of exposure to these types of piece.  They’ll be composing one for an end-of-term project, and in addition to being great pieces for studying modulation, they are great pieces for studying phrase structure and for becoming acquainted within certain Classical schemata. We’ve been talking about “Montes, Fontes, and Pontes,” in particular.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://spotify.com&quot;&gt;Spotify&lt;/a&gt; is a relatively new, but really wonderful resource for recordings of all kinds of music. And it’s great for in-class use because it is easy to search, and it isn’t browser-based. Most importantly, I can count on music playing when I click play. I’ve been using Spotify along with the &lt;a href=&quot;http://remoteless.no/&quot;&gt;Remoteless app&lt;/a&gt; for iPhone so that I can play music while walking around the class and watching/helping my students. It’s an even better tool outside of class. I’ve been creating Spotify playlists stocked with listening examples that are relevant to whatever we are working on in class. ~~For example, here’s my playlist for modulation and binary form.~~ I send my students that playlist, along with a DropBox link to a folder containing a list of the listening excerpts from the playlist and screenshots of the answers taken from IMSLP. Students pick something to listen to, note the key, and try dictate the bass line, identify what type of phrase they hear, and so on. Most importantly, this is all really easy for me to maintain. If I hear something promising on Spotify, I can easily drag it to the appropriate playlist, drop a screenshot of the passage from IMSLP into the DropBox, and type its title, key, and the location of the passage (for example, 0:00-0:17) into the DropBox text file.&lt;/p&gt;
+
+&lt;p&gt;My hopes are that all of this makes my students more likely to spend time listening outside of class. Listening skills are difficult to improve for lots of reasons. Because class time is limited, I want to remove any practical barriers that limit my students’s ability to practice on their own.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/blog/using-spotify-in-the-aural-skills-classroom/&quot; rel=&quot;nofollow&quot;&gt;Using Spotify in the Aural Skills Classroom&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Dropvox</title>
+  <link href="/blog/dropvox/"/>
+  <updated>2012-10-08T00:00:00-04:00</updated>
+  <id>/blog/dropvox</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/dropvox-feature.png&quot; alt=&quot;Dropvox feature&quot;&gt;&lt;br/&gt;
+    &lt;p&gt;Now that I’m thinking about it, another classroom tool I’ve used a lot this year is &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0CCIQFjAA&amp;amp;url=http%3A%2F%2Fwww.irradiatedsoftware.com%2Fdropvox%2F&amp;amp;ei=oyozVKrxEvCLsQS1uoCICQ&amp;amp;usg=AFQjCNENarLqy6aNKM2XjoyJilkAihA7VQ&amp;amp;sig2=A7gCIxnjmK1cvm-NOKLTDA&amp;amp;bvm=bv.76943099,d.cWc&quot;&gt;DropVox&lt;/a&gt;. It’s functionality isn’t a lot different from the Memos app that comes pre-installed on iPhones. But, DropVox automatically uploads anything you record to a folder in your DropBox for you to listen to on a better set of speakers later. It’s a really helpful little app if you grade students on prepared singing, sight-singing, and so on. I’ve been using Lore as a course management site this year (it’s kind of like Moodle, but a bit more social), and it allows me to leave comments with grades that I post. Having DropVox recordings in addition to whatever notes I might make in class really helps me give better feedback to my students. And Lore allows you to upload those files along with your students’s grades so that they can hear themselves, too.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/blog/dropvox/&quot; rel=&quot;nofollow&quot;&gt;Dropvox&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+<entry>
+  <title>Resources</title>
+  <link href="/studio/resources/"/>
+  <updated>2012-04-27T00:00:00-04:00</updated>
+  <id>/studio/resources</id>
+  <author>
+    <name>Jessica Moseley</name>
+    <uri>/</uri>
+    <email>barnett.jessica@gmail.com</email>
+  </author>
+  <content type="html">
+    &lt;img src=&quot;/images/background.jpg&quot; alt=&quot;Resources feature&quot;&gt;&lt;br/&gt;
+    &lt;div class=&quot;sidebar-left top&quot;&gt;
+	&lt;h6 class=&quot;toc-title&quot;&gt;Studio Information&lt;/h6&gt;
+	&lt;ul class=&quot;toc&quot;&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio&quot;&gt;About My Studio&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/tuition-and-policies&quot;&gt;Tuition and Policies&lt;/a&gt;
+			&lt;!--&lt;ul&gt;	
+			&lt;li&gt;
+				&lt;a href=&quot;#Tuition&quot;&gt;Costs&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#attendance&#39;&gt;Attendance and Cancellation&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#practicing&#39;&gt;Practicing&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;#performance&quot;&gt;Performance Opportunities&lt;/a&gt;
+			&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&#39;#supplies&#39;&gt;Supplies&lt;/a&gt;
+			&lt;/li&gt;--&gt;
+		&lt;/li&gt;	
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/resources&quot;&gt;Resources&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/about&quot;&gt;About Me&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;li&gt;
+			&lt;a href=&quot;/studio/contact&quot;&gt;Contact Me&lt;/a&gt;
+		&lt;/li&gt;
+	&lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;repertoire-and-materials&quot;&gt;Repertoire and Materials&lt;/h2&gt;
+&lt;p&gt;Sheet music is available from a variety of sources online (&lt;a href=&quot;http://www.amazon.com&quot;&gt;Amazon&lt;/a&gt;, &lt;a href=&quot;http://www.pianoatpepper.com/&quot;&gt;Piano at Pepper&lt;/a&gt; and &lt;a href=&quot;http://www.jwpepper.com/sheet-music/piano-sheet-music.jsp&quot;&gt;JW Pepper&lt;/a&gt;) and in the Buffalo area (&lt;a href=&quot;http://www.illos.com&quot;&gt;Illos Pianos&lt;/a&gt;). On occassion, sheet music is available for free through the &lt;a href=&quot;http://imslp.org&quot;&gt;Interational Music Score Library Project&lt;/a&gt;. I am more than happy to purchase materials directly and send you a bill for the materials at-cost (including shipping, if applicable).&lt;/p&gt;
+
+&lt;p&gt;In addition to their music, students should bring a notebook to every lesson so  that I can record practice notes, relay messages, and keep track of our progress and goals. Students (and parents) may also use this notebook for journaling practice habits, asking questions, or generally expressing their musical aspirations.&lt;/p&gt;
+
+&lt;p&gt;Students should invest in a metronome to insure quality practicing. &lt;a href=&quot;https://itunes.apple.com/us/app/pro-metronome-tempo-keeping/id477960671?mt=8&quot;&gt;Metronome apps&lt;/a&gt; are available on your smartphone, and quality, affordable metronomes are &lt;a href=&quot;http://www.amazon.com/Matrix-MR600-Deluxe-Metronome/dp/B0002F6ZJS/ref=sr_1_12?s=musical-instruments&amp;amp;ie=UTF8&amp;amp;qid=1432250811&amp;amp;sr=1-12&quot;&gt;available online&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;piano-maintenance&quot;&gt;Piano Maintenance&lt;/h2&gt;
+
+&lt;p&gt;In the Buffalo area, we have a number of exceptional piano stores and repair technicians. For piano maintenance, I highly recommend both &lt;a href=&quot;http://www.music.buffalo.edu/faculty/staff&quot;&gt;Sharon Mok&lt;/a&gt; at the University at Buffalo and &lt;a href=&quot;http://www.illos.com&quot;&gt;Illos Pianos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;music-theory-resources&quot;&gt;Music Theory Resources&lt;/h2&gt;
+&lt;p&gt;Theory tutorials, flash cards, ear-training drills, staff paper, etc. are available at &lt;a href=&quot;www.musictheory.net&quot;&gt;musictheory.net&lt;/a&gt;. There are number of wonderful iPhone and Android apps as well.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/studio/resources/&quot; rel=&quot;nofollow&quot;&gt;Resources&lt;/a&gt; was originally published by &lt;a href=&quot;/about/&quot; rel=&quot;nofollow&quot;&gt;Jessica Moseley&lt;/a&gt; on &lt;a href=&quot;&quot; rel=&quot;nofollow&quot;&gt;Jessica R. Barnett, Ph.D&lt;/a&gt;.&lt;/p&gt;
+  </content>
+</entry>
+
+
+</feed>

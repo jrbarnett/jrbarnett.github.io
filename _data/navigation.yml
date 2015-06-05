@@ -1,0 +1,21 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+  excerpt: "A collection of my thoughts."
+  image: thoughts-400x250.jpg
+
+- title: Articles
+  url: /articles/
+  excerpt: "Some of my scholarly work."
+  image: scholarly-400x250.jpg
+
+- title: Lessons
+  url: /studio/
+  excerpt: "Information about my piano studio."
+  image: lessons-400x250.jpg
+
+- title: About
+  url: /about/
+  excerpt: "Learn more about me and the site."
+  image: about-400x250.jpg

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+
+
+<title>Jessica R. Barnett, Ph.D &#8211; Articles</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll v2.5.3</generator>
+<icon>/apple-touch-icon-precomposed.png</icon>
+<subtitle>Personal website of Buffalo-based pianist slash music theorist slash educator Jessica Barnett.</subtitle>
+<link href="/articles-feed.xml" rel="self"/>
+<link href="/" rel="alternate" type="text/html"/>
+<updated>2015-06-05T10:10:55-04:00</updated>
+<id>/</id>
+<author>
+	<name>Jessica Moseley</name>
+	<uri>/</uri>
+	<email>barnett.jessica@gmail.com</email>
+</author>
+
+
+
+</feed>
